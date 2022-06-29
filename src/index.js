@@ -6,5 +6,5 @@ app.listen(3000, () => {
 })
 
 app.get('/', (req, res) => {
-    res.send('funciona')
+    res.send('funciona bien')
 })
